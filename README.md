@@ -1,1 +1,1 @@
-# JCPJDev JSE at MicroSource Inc.
+# John Carlo Pura Jacobe, Junior Software Engineer - DevOps at MicroSource Inc.
